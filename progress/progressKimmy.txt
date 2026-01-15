@@ -1,0 +1,4 @@
+1. Menyelesaikan UML (Use Case Diagram)
+2. Menyelesaikan UML (Class Diagram)
+3. Menyelesaikan UML (Activity Diagram)
+2. Membuat UI Login Page
