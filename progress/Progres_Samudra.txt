@@ -1,0 +1,4 @@
+1. menyelesaikan activity diagram
+2. menyelesaikan use case diagram
+3. menyelesaikan class diagram
+4. membuat ui
